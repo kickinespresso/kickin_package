@@ -1,0 +1,3 @@
+## Run Tests
+
+py.test
